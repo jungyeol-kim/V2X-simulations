@@ -14,7 +14,7 @@ The code is written in the following structure:
   - Creating directed mobility network and corresponding adjacency metrix
   - Temporal variation of traffic density and routing: setting routing probability pertaining to vehicle movement
 - Information propagation simulation based on a continuous-time Markov chain
-  - Creating function: Simulations for information propagation in V2V-enabled transportation network
+  - Creating function: simulations for information propagation in V2V-enabled transportation network
   - Running multiple simulations to calculate ensemble average
 - Solution of the set of clustered epidemiological differential equations
   - Automatic generation of the set of differential equations
