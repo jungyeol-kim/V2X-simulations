@@ -6,7 +6,7 @@ V2V technologies bridge two infrastructures: communication and transportation. T
 The V2V_communication.R file contains both 1) the code for information propagation simulation based on a continuous-time Markov chain and 2) the code for numerically solving the corresponding set of clustered epidemiological differential equations.
 
 The code is written in the following structure:
-- R Packages that we use
+- R Packages we use
 - Transportation network
   - Setting a size of grid topology
   - Creating directed mobility network and corresponding adjacency metrix
