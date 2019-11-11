@@ -3,7 +3,7 @@ Vehicular Messaging Simulation in Transportation Networks
 
 V2V technologies bridge two infrastructures: communication and transportation. These infrastructures are interconnected and interdependent. To capture this inter-dependence, which may vary in time and space, we propose a new methodology for modeling information propagation between V2V-enabled vehicles. The model is based on a continuous-time Markov chain which is shown to converge, under appropriate conditions, to a set of clustered epidemiological differential equations. The fraction of vehicles which have received a message, as a function of space and time may be obtained as a solution of these differential equations, which can be solved efficiently, independently of the number of vehicles. 
 
-The V2V_communication.R file contains both the code for information propagation simulation based on a continuous-time Markov chain and the code for numerically solving the corresponding set of clustered epidemiological differential equations.
+The V2V_communication.R file contains both 1) the code for information propagation simulation based on a continuous-time Markov chain and 2) the code for numerically solving the corresponding set of clustered epidemiological differential equations.
 
 The code is written in the following structure:
 - R Packages that we use
