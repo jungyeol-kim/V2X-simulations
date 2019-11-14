@@ -10,9 +10,11 @@ Once you open the file in RStudio, please fold the code (go to the menu bar and 
 Please cite our paper if you use this code.
 
 Recommended citation:
+
 J. Kim, S. Sarkar, S. S. Venkatesh, M. S. Ryerson, and D. Starobinski, 2019. A finite difference approximation of the kinematic wave model of traffic flow. (In press) Transportation Research Part B: Methodological
 
 And respective BibTeX entry:
+
 @article{KSVRS18,
   title={An Epidemiological Diffusion Framework for Vehicular Messaging in General Transportation Networks},
   author={Kim, Jungyeol and Sarkar, Saswati and Venkatesh, Santosh S and Ryerson, Megan Smirti and Starobinski, David},
