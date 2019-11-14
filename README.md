@@ -19,7 +19,7 @@ And respective BibTeX entry:
   author={Kim, Jungyeol and Sarkar, Saswati and Venkatesh, Santosh S and Ryerson, Megan Smirti and Starobinski, David},  
   journal={(In press) Transportation Research Part B: Methodological},  
   year={2019},  
-  publisher={Elsevier}. 
+  publisher={Elsevier}  
 }
 
 ### Table of Contents 
