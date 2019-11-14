@@ -14,7 +14,7 @@ J. Kim, S. Sarkar, S. S. Venkatesh, M. S. Ryerson, and D. Starobinski, 2019. A f
 
 And respective BibTeX entry:
 
-@article{KSVRS18,
+@article{KSVRS18,  
   title={An Epidemiological Diffusion Framework for Vehicular Messaging in General Transportation Networks},  
   author={Kim, Jungyeol and Sarkar, Saswati and Venkatesh, Santosh S and Ryerson, Megan Smirti and Starobinski, David},  
   journal={(In press) Transportation Research Part B: Methodological},  
