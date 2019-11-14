@@ -7,6 +7,21 @@ The V2X_simulations.R file contains both 1) the code for information propagation
 
 Once you open the file in RStudio, please fold the code (go to the menu bar and select: Edit > Folding > Collapse All) for easy navigation and then unfold the section of interest by clicking the caret.
 
+Please cite our paper if you use this code.
+
+Recommended citation:
+J. Kim, S. Sarkar, S. S. Venkatesh, M. S. Ryerson, and D. Starobinski, 2019. A finite difference approximation of the kinematic wave model of traffic flow. (In press) Transportation Research Part B: Methodological
+
+And respective BibTeX entry:
+@article{KSVRS18,
+  title={An Epidemiological Diffusion Framework for Vehicular Messaging in General Transportation Networks},
+  author={Kim, Jungyeol and Sarkar, Saswati and Venkatesh, Santosh S and Ryerson, Megan Smirti and Starobinski, David},
+  journal={(In press) Transportation Research Part B: Methodological},
+  year={2019},
+  publisher={Elsevier}
+}
+
+
 The code is written in the following structure:
 - R Packages we use
 - Transportation network
