@@ -8,7 +8,7 @@ V2V technologies bridge two infrastructures: communication and transportation. T
 ### Recommended citation
 Please cite our paper below if you use this code.
 
-J. Kim, S. Sarkar, S. S. Venkatesh, M. S. Ryerson, and D. Starobinski, 2019. An Epidemiological Diffusion Framework for Vehicular Messaging in General Transportation Networks. Transportation Research Part B: Methodological, 131, pp.160-190.
+*J. Kim, S. Sarkar, S. S. Venkatesh, M. S. Ryerson, and D. Starobinski, 2019. An Epidemiological Diffusion Framework for Vehicular Messaging in General Transportation Networks. Transportation Research Part B: Methodological, 131, pp.160-190.*
 
 
 ### Step-by-step instructions
