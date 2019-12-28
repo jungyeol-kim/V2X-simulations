@@ -16,24 +16,24 @@ For first time users, here is the quick version of the instructions. Follow thes
 
 1. Open RStudio.
 2. Set working directory.
-  1. Go to Tools > Change Working Dir... menu (Session > Set Working Directory on a mac), or use setwd() function. eg., setwd("/Users/jy/V2Vproject").
-  2. Check that the “home” directory for your project is the working directory of our current R process by typing getwd() in the Console.
+    - Go to Tools > Change Working Dir... menu (Session > Set Working Directory on a mac), or use setwd() function. eg., setwd("/Users/jy/V2Vproject").
+    - Check that the “home” directory for your project is the working directory of our current R process by typing getwd() in the Console.
 3. Keep all the files (required input csv files, R scripts) associated with a project located together in the working directory.
 4. Open the script file V2Vsimulation.R in the editor.
-  - Go to File > Open > V2Vsimulation.R or type file.edit('V2Vsimulation.R') in the Console.
+    - Go to File > Open > V2Vsimulation.R or type file.edit('V2Vsimulation.R') in the Console.
 5. Setting parameters values. (set values in lines 10,11,12 of the script file)
-  - total.clusters: the total number of clusters
-  - sim.time: end time of the time sequence
-  - step.size: step, increment of time
-  - e.g., if step.size=1 and sim.time=100, the result will be generated every 1 time unit, from 0 to 100 units.
+    - total.clusters: the total number of clusters
+    - sim.time: end time of the time sequence
+    - step.size: step, increment of time
+    - e.g., if step.size=1 and sim.time=100, the result will be generated every 1 time unit, from 0 to 100 units.
 6. Check output
-  - Type source("V2Vsimulation.R", echo = TRUE) in the Console.
+    - Type source("V2Vsimulation.R", echo = TRUE) in the Console.
 7. Check output of this software
-  - The output of this software consist of csv file representing the fraction of vehicles which have received a message, as a function of space and time.
-  - The output files are saved in the the current working directory.
-  - fraction_of_informed_vehicles_per_cluster.csv: the fraction of informed vehicles per clusters over time.
-  - fraction_of_non_formed_vehicles_per_cluster.csv: the fraction of non-informed vehicles per clusters over time.
-  - Most users will want to create graphs using the output files. Refer to the last section of this manual.
+    - The output of this software consist of csv file representing the fraction of vehicles which have received a message, as a function of space and time.
+    - The output files are saved in the the current working directory.
+    - fraction_of_informed_vehicles_per_cluster.csv: the fraction of informed vehicles per clusters over time.
+    - fraction_of_non_formed_vehicles_per_cluster.csv: the fraction of non-informed vehicles per clusters over time.
+    - Most users will want to create graphs using the output files. Refer to the last section of this manual.
 
 
 ### Table of Contents 
