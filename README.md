@@ -19,8 +19,8 @@ And respective BibTeX entry:
   volume={131},  
   pages={160--190},  
   year={2020},  
-  publisher={Elsevier}. 
-}
+  publisher={Elsevier}  
+} 
 
 ### Table of Contents 
 The manual is written in the following structure:
