@@ -37,7 +37,7 @@ For first time users, here is the quick version of the instructions. Follow thes
 
 
 ### Table of Contents 
-The manual is written in the following structure:
+The software manual is written in the following structure:
 - R Packages we use
 - Introduction
   - Recommended citation
