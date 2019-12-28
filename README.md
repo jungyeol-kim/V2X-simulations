@@ -16,8 +16,8 @@ For first time users, here is the quick version of the instructions. Follow thes
 
 1. Open RStudio.
 2. Set working directory.
-  - Go to Tools > Change Working Dir... menu (Session > Set Working Directory on a mac), or use setwd() function. eg., setwd("/Users/jy/V2Vproject").
-  - Check that the “home” directory for your project is the working directory of our current R process by typing getwd() in the Console.
+  1. Go to Tools > Change Working Dir... menu (Session > Set Working Directory on a mac), or use setwd() function. eg., setwd("/Users/jy/V2Vproject").
+  2. Check that the “home” directory for your project is the working directory of our current R process by typing getwd() in the Console.
 3. Keep all the files (required input csv files, R scripts) associated with a project located together in the working directory.
 4. Open the script file V2Vsimulation.R in the editor.
   - Go to File > Open > V2Vsimulation.R or type file.edit('V2Vsimulation.R') in the Console.
