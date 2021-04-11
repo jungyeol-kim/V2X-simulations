@@ -10,9 +10,10 @@ Please cite our paper below if you use this code.
 
 *J. Kim, S. Sarkar, S. S. Venkatesh, M. S. Ryerson, and D. Starobinski, 2019. An Epidemiological Diffusion Framework for Vehicular Messaging in General Transportation Networks. Transportation Research Part B: Methodological, 131, pp.160-190.*
 
-#### Please find a "readme.pdf" file illustrating the usage of the code
+
 
 ### Step-by-step instructions
+#### Please find a "readme.pdf" file illustrating the usage of the code
 For first time users, here is the quick version of the instructions. Follow these steps:
 
 1. Open RStudio.
