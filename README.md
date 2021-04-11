@@ -13,7 +13,7 @@ Please cite our paper below if you use this code.
 
 
 ### Step-by-step instructions
-#### Please find a "readme.pdf" file illustrating the usage of the code
+#### Please find a "software manual.pdf" file illustrating the usage of the code
 For first time users, here is the quick version of the instructions. Follow these steps:
 
 1. Open RStudio.
